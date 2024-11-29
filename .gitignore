@@ -1,0 +1,6 @@
+.tox/*
+.vscode/*
+regression_model/__pycache__/*
+tests/__pycache__/*
+regression_model/config/__pycache__/*
+regression_model/processing/__pycache__/*
